@@ -3,7 +3,7 @@
 ## Description
 This repository contains a clone of ChatGPT, a conversational AI chatbot, built using the LLaMA-3.1-70B-Versatile model from GROQ, LangGraph, and Streamlit.
 
-## GROQ
+## GROQ https://groq.com/
 The AI landscape is undergoing a significant shift towards deploying and running models, also known as inference. Groq empowers developers and enterprises to harness this power, providing **fast AI inference in the cloud**.
 The **Groq Language Processing Unit (LPU)** is the game-changing technology designed for AI inference and language.
 
